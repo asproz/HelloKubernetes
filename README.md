@@ -10,3 +10,6 @@
 - To tunnel your application and provide a URL, just: minikube service hello-kubernetes --url
 
 
+
+# LONG LIVE DOCKERFILE
+
