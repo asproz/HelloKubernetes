@@ -1,0 +1,7 @@
+appName: hello-kubernetes
+namespace: default
+appVersion: latest
+replicaCount: 1
+image:
+  registry: ajunior
+  pullPolicy: Never
